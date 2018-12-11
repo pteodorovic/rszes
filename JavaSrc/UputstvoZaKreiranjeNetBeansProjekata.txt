@@ -1,0 +1,12 @@
+1) Otpakovati sadrzaj ove arhive na zeljenu lokaciju (npr C:\NetBeansProjects). Otpakovana arhiva sadrzi pet direktorijuma sa izvornim datotekama.
+2) Kreiranje novog projekta u NetBeans-u koriscenjem vec postojeceg koda vrsi se na sledeci nacin:
+	File->New Project (ili Ctrl+Shift+N)
+	Odabrati kategoriju Java, u Projects polju odabrati opciju Java Project with Existing Sources, nakon cega Next
+	Project name proizvoljno (npr V2) ali project folder odabrati jedan od onih raspakovanih (npr C:\NetBeansProjects\RSZES_V2 za vezbu 2 itd). Nakon toga Next
+	Dodati src direktorijum iz dodatog direktorija kao direktorijum sa izvrsnim datotekama
+	Trebalo bi da su sve Java datoteke prepoznate u okviru src direktorijuma koji je dodat, pa samo treba kliknuti na Finish
+3) Nakon toga imate kreiranu strukturu pet projekata, pri cemu se svaki odnosi na odgovarajucu vezbu i uskladjen je sa materijalima iz kojih je predavano.
+
+	
+	
+	
